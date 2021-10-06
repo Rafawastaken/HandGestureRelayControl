@@ -1,9 +1,9 @@
 #include "ESP8266WiFi.h"
 
-const char* ssid = "MEO-8974B0";
-const char* password =  "588d1b30e7";
+const char* ssid = "SSID";
+const char* password =  "WIFI";
 
-WiFiServer wifiServer(9999);
+WiFiServer wifiServer(9999); //Need to be same port for run.py
 
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
