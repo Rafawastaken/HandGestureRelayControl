@@ -1,2 +1,2 @@
 # HandGestureRelayControl
-Control relay using hand gestures
+**Control relay using hand gestures**
