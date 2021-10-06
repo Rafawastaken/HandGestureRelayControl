@@ -4,8 +4,8 @@ from time import sleep
 from handController import HandTrackingModule as htm
 
 def sendSocket(status):
-    HOST = "192.168.1.78"
-    PORT = 9999
+    HOST = "192.168.1.78" # Esp Internal IP
+    PORT = 9999 # Port Used
 
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.connect((HOST, PORT))
