@@ -5,5 +5,5 @@ This project is an adaptation of the Hand Gesture Module/Finger Counter projecte
 
 ## About Project
 
-The way this project works is that when the hand is open or closed sends a socket to esp8266 (esp-01) programmed as socket server that sets a GPIO High or Low accordingly to the socket conent.
+The way this project works is that when the hand is open or closed it sends a socket to an esp8266 (esp-01) connected to the network coded as socket server that sets a GPIO High or Low accordingly to the socket conent.
 The server side comunication of the esp, even though funcional is quite rudimentary becauseC programming language is a struggle to me, need to study more about it.
