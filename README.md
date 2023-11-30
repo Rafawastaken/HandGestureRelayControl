@@ -10,5 +10,5 @@ The server side comunication of the esp, even though funcional is quite rudiment
 
 ## Video
 My work place made a video and a blog post on this project:
-  https://www.electrofun.pt/blog/controlar-rele-atraves-de-visao-computacional
-  https://www.youtube.com/watch?v=lrFistyBQTE
+  1. https://www.electrofun.pt/blog/controlar-rele-atraves-de-visao-computacional
+  2. https://www.youtube.com/watch?v=lrFistyBQTE
